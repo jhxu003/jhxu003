@@ -28,9 +28,9 @@ My current interests include applying machine learning and intelligent systems t
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhxu003/jhxu003/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhxu003/jhxu003/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/jhxu003/jhxu003/output/github-snake.svg" />
 </picture>
 
 </div>
