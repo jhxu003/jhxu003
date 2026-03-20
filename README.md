@@ -1,4 +1,4 @@
-# Hello, I'm jhxu. 👋
+# Hello, I'm jhxu 👋
 
 🎓 PhD Student at **East China Normal University (ECNU)**  
 🔬 Researcher in **AI for Science**  
