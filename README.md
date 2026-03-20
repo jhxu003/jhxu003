@@ -4,25 +4,6 @@
 🔬 Researcher in **AI for Science**  
 🌱 Exploring how AI can accelerate scientific understanding and discovery  
 
----
-
-## About
-
-I am a PhD student at ECNU working on **AI for Science**.  
-My current interests include applying machine learning and intelligent systems to scientific problems, with a focus on building useful, reliable, and research-oriented AI methods.
-
----
-
-## Interests
-
-- Artificial Intelligence
-- AI for Science
-- Machine Learning
-- Scientific Discovery
-- Data-Driven Research
-
----
-
 ## Contribution Graph
 
 <div align="center">
