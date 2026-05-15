@@ -1,6 +1,5 @@
 # Hello, I'm jhxu 👋
 
-🎓 PhD Student at **East China Normal University (ECNU)**  
 🔬 Researcher in **AI for Science**  
 🌱 Exploring how AI can accelerate scientific understanding and discovery  
 
